@@ -53,3 +53,9 @@ Temas a serem desenvolvidos.
     Cartas Geofísicas
     Cartas Geotécnicas
     Mapas Dinâmicos (AVL, Rastreamento)
+    
+    ## Módulos de Python
+    
+    - Folium
+    - Geopandas
+    - Basemap
