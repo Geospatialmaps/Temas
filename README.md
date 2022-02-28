@@ -59,3 +59,4 @@ Temas a serem desenvolvidos.
     - Folium
     - Geopandas
     - Basemap
+    - Cartopy
